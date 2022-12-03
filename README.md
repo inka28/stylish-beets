@@ -19,7 +19,7 @@ deliverables: "1 HTML file, 1 CSS file, images"
 
 ## Details
 
-- *Typefaces:* `PT Sans` (bold), `PT Serif` (regular, italic, bold) — from Google Fonts
+- *Typefaces:* `PT Sans` (bold), `PT Serif` (regular, italic, bold) — from Google Fonts
 - *Text sizes:* `1.5rem`, `1.125rem`, `0.8rem`
 - *Line height:* `1.5`
 - *Colours:* `#c9b5ab`, `#8f2440`, `#222`, `#3f1622`
@@ -31,10 +31,11 @@ deliverables: "1 HTML file, 1 CSS file, images"
 Visually match the images in the “screenshots” folder and create the interaction shown in the linked video.
 
 - Final screenshots in the “screenshots” folder.
-- [**Watch this video to see how it interacts.**](https://youtu.be/d1PbW1xAC6A)
+- [**Watch this video to see how it interacts.**](https://videos.learntheweb.courses/playlists/web-design-1/stylish-beets.mp4)
 
 ---
 
 ## Hand in
 
 Drop this folder into your Markbot application. Make sure to fix all the errors. And submit for grades using Markbot.
+$$
